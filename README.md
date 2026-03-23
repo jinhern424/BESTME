@@ -23,6 +23,7 @@ The project employs a supervised learning approach to classify activities.
 * **Model Selection**: Various models were tested, including **Fine Tree**, **Weighted KNN**, and **Efficient Logistic Regression**. 
 * **Training Performance**: The **Fine Tree (Model 2.1)** achieved a validation accuracy of **99.9%** using 6 features.
 * **Data Visualization**: Includes scatter plots of raw acceleration and absolute acceleration to show class separation.
+<img width="1194" height="622" alt="image" src="https://github.com/user-attachments/assets/80e23c57-4fe6-4e64-8e07-abd91a275c67" />
 
 ## 🧮 Calculations
 ### Calories Burned Formula
@@ -34,6 +35,7 @@ $$Calories\ Burned = Time \times (MET \times 3.5) \times \frac{Weight\ [kg]}{200
 * **Sitting**: 1.0
 * **Walking**: 3.5
 * **Running**: 10.0
+<img width="451" height="321" alt="image" src="https://github.com/user-attachments/assets/f86e29a8-cda6-4af0-9d69-0653d5851697" />
 
 ### Distance & Steps
 * **Total Distance**: Calculated in meters based on GPS coordinates. 
@@ -43,6 +45,8 @@ $$Calories\ Burned = Time \times (MET \times 3.5) \times \frac{Weight\ [kg]}{200
 * Familiarize the system with the specific activity habits of an individual user.
 * Implement idle or inactivity alerts.
 * Incorporate a wider variety of supported workouts. 
+<img width="1518" height="1012" alt="image" src="https://github.com/user-attachments/assets/f1828629-2c51-483c-b3e9-ecbb8956ebb7" />
+(Display for the routh)
 
 ---
 *Generated for the FitLife Project - © 2025 BESTME*
